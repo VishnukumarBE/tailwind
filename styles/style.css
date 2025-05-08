@@ -1,0 +1,22 @@
+.custom-card {
+    border-left: 5px solid #59c1e2;
+    border-radius: 12px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  .badge-status {
+    margin-left: 10px;
+  }
+  .status-pill {
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+  }
+  .time-box {
+    background-color: #4f9996;
+    color: #fff;
+    border-radius: 6px;
+    padding: 10px 16px;
+    text-align: center;
+  }
